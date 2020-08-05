@@ -1,0 +1,12 @@
+body {
+    padding: 2px;
+    background: #FC466B;
+    background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);
+    background: linear-gradient(to right, #3F5EFB, #FC466B);
+}
+
+
+#app-mount {
+    width: calc(100% - 4px); /* wow that was easy */
+    height: calc(100% - 4px);
+}

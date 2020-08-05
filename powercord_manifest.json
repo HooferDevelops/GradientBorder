@@ -1,0 +1,9 @@
+{
+    "name": "Gradient Border",
+    "description": "Give your Discord some style",
+    "version": "1.0.0",
+    "author": "Hoofer#0001",
+    "theme": "gradient.css",
+    "consent": "false",
+    "license": "MIT"
+}
