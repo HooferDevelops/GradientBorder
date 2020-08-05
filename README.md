@@ -3,7 +3,7 @@
 A gradient border theme made for Powercord. Inspired by the one and only Luckfire!
 
 ## Pictures
-![UI Gradient with Border](https://cdn.discordapp.com/attachments/738968109288914976/740645674235985920/unknown.png)
+![UI Gradient with Border](https://cdn.discordapp.com/attachments/738968109288914976/740646082903539823/unknown.png)
 
 
 ## Quick Installation
